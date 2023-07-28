@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+    background-color: wheat;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: orange;
+}
+
+a {
+    color:  red;
+    text-decoration: none;
+    border-bottom: 1px dotted navy;
+}
+
+.description {
+    float: left;
+    width: 400px;
+}
+
+.ad {
+    float: right;
+    width: 350px;
+    margin-top: 90px;
+    padding: 30px;
+    border: 2px dotted navy;
+}
+
+.reviews {
+    width: 870px;
+    float: left;
+    margin-left: 30px;
+    background: url("/uploads/2021/02/peer-review-icon-2888794_1280%201%20(1)_0_1612537770.png") no-repeat 50% 30%,
+    url("/uploads/2021/02/peer-review-icon-2888794_1280%201%20(1)_0_1612537770.png") no-repeat 95% 60%,
+    url("/uploads/2021/02/peer-review-icon-2888794_1280%201%20(1)_0_1612537770.png") no-repeat 60% 80%;
+}
+.review {
+    border-left: 10px double navy;
+    width: 350px;
+    padding-left: 10px;
+    border-radius: 10px;
+    color: yellow;
+    background-color: orange;
+}
+
+span {
+    color: firebrick;
+    border-bottom: 1px dotted firebrick;
+}
+img{
+border-radius: 30px;
+
+}
+section{
+
+    background-color: rgb(242, 255, 59);
+}
